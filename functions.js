@@ -8,13 +8,13 @@
 
 console.log(isHometown('San Francisco'))
 
-// Define your function here
-
-
 // 2. getFullName
 
-// Define your function here
-
+    function getFullName(firstName, lastName) {
+        return `${firstName} ${lastName}`;
+    }
+console.log(getFullName('Chantel', 'Yip'))
+    
 
 // 3. calculateTotal
 

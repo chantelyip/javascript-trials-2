@@ -2,6 +2,11 @@
 
 
 // 1. isHometown
+    function isHometown(town) {
+        return town === 'San Francisco';
+    }
+
+console.log(isHometown('San Francisco'))
 
 // Define your function here
 
